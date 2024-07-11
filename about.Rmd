@@ -1,0 +1,14 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## About [Company Name]
+
+Founded with a vision to empower businesses with data-driven insights, [Company Name] is a leading provider of innovative web solutions specializing in analysis and decision support tools. Our mission is to transform raw data into actionable intelligence, helping our clients navigate complex challenges and seize opportunities with confidence.

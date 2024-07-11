@@ -1,0 +1,14 @@
+name: "."
+title: "Building websites template"
+description: |
+  Building websites template
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Services"
+      href:  services.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
