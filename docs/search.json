@@ -5,24 +5,15 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-<<<<<<< Updated upstream
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-07-12T05:39:19+03:00"
-=======
-      "contents": "\r\nAbout [Company Name]\r\nFounded with a vision to empower businesses with data-driven insights, [Company Name] is a leading provider of innovative web solutions specializing in analysis and decision support tools. Our mission is to transform raw data into actionable intelligence, helping our clients navigate complex challenges and seize opportunities with confidence.\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-07-12T02:57:03+03:00"
->>>>>>> Stashed changes
+      "contents": "\r\n\r\n\r\n\r\nAbout [Company Name]\r\nFounded with a vision to empower businesses with data-driven insights, [Company Name] is a leading provider of innovative web solutions specializing in analysis and decision support tools. Our mission is to transform raw data into actionable intelligence, helping our clients navigate complex challenges and seize opportunities with confidence.\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-07-12T23:47:50+03:00"
     },
     {
       "path": "index.html",
       "title": "Building Websites",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Building websites template\r\n          \r\n          \r\n          Home\r\n          Services\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Building Websites\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Twitter\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Approach\r\n            At [Company Name], we prioritize collaboration and\r\n            transparency. We work closely with our clients throughout\r\n            the development process, from initial concept to deployment\r\n            and beyond. Our agile methodology allows us to adapt to\r\n            evolving requirements and deliver solutions that drive\r\n            measurable business outcomes.\r\n            \r\n            \r\n            Commitment to Quality\r\n            Quality is at the heart of everything we do. We adhere to\r\n            industry best practices and rigorous testing protocols to\r\n            ensure that our web applications are reliable, secure, and\r\n            performant. Our commitment to continuous improvement drives\r\n            us to stay ahead of technological advancements and industry\r\n            trends.\r\n            \r\n            \r\n            Experience\r\n            Partnerships and Community\r\n            Beyond our client engagements, [Company Name] is\r\n            committed to contributing to the tech community. We actively\r\n            participate in industry events, share our knowledge through\r\n            workshops and seminars, and collaborate with academic\r\n            institutions to foster talent and innovation.\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Building Websites\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Approach\r\n              At [Company Name], we prioritize collaboration and\r\n              transparency. We work closely with our clients throughout\r\n              the development process, from initial concept to\r\n              deployment and beyond. Our agile methodology allows us to\r\n              adapt to evolving requirements and deliver solutions that\r\n              drive measurable business outcomes.\r\n              \r\n              \r\n              Commitment to Quality\r\n              Quality is at the heart of everything we do. We adhere\r\n              to industry best practices and rigorous testing protocols\r\n              to ensure that our web applications are reliable, secure,\r\n              and performant. Our commitment to continuous improvement\r\n              drives us to stay ahead of technological advancements and\r\n              industry trends.\r\n              \r\n              \r\n              Experience\r\n              Partnerships and Community\r\n              Beyond our client engagements, [Company Name] is\r\n              committed to contributing to the tech community. We\r\n              actively participate in industry events, share our\r\n              knowledge through workshops and seminars, and collaborate\r\n              with academic institutions to foster talent and\r\n              innovation.\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-<<<<<<< Updated upstream
       "last_modified": "2024-07-12T05:41:24+03:00"
-=======
-      "last_modified": "2024-07-12T02:57:05+03:00"
->>>>>>> Stashed changes
     },
     {
       "path": "services.html",
@@ -30,11 +21,7 @@
       "description": "Types of services ",
       "author": [],
       "contents": "\r\nExpertise and Services\r\nAt [Company Name], we combine cutting-edge technology with deep industry knowledge to deliver robust web applications tailored to meet the unique needs of each client. Whether it’s developing interactive dashboards, predictive modeling tools, or comprehensive reporting systems, our team excels in turning data into strategic advantages.\r\n\r\n\r\n\r\n",
-<<<<<<< Updated upstream
       "last_modified": "2024-07-12T05:54:31+03:00"
-=======
-      "last_modified": "2024-07-12T02:57:07+03:00"
->>>>>>> Stashed changes
     }
   ],
   "collections": []

@@ -8,6 +8,14 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+```{r}
+library(dplyr)
+library(DT)
+mtcars %>%
+  DT::datatable()
+```
+
+
 
 ## About [Company Name]
 
