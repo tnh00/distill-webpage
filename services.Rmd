@@ -8,6 +8,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
 ## Expertise and Services
 
 At [Company Name], we combine cutting-edge technology with deep industry knowledge to deliver robust web applications tailored to meet the unique needs of each client. Whether it's developing interactive dashboards, predictive modeling tools, or comprehensive reporting systems, our team excels in turning data into strategic advantages.
